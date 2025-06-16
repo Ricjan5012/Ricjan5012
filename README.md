@@ -1,8 +1,12 @@
-# ⌨️Ricky Bui
+# Hello! My name is Ricky Bui
 <a href="https://www.linkedin.com/in/ricky-bui-089446218/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Objective
+## About me⌨️
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
+I am a Cyber Security graduate from UTSA and CompTIA Security+ Certified
+I have done an internship as a Cybersecurity Basics Intern at TLT - Tomorrow's Leaders Today.
+I am interested in learning more about Malware Analysis
 
-## Skills
+### Projects
+
+
