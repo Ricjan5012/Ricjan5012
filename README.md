@@ -55,7 +55,7 @@
 
 ## Certifications
 <div>
-<img src=(https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white) /[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/22478645/CompTIA.Security%2B.ce.certificate.pdf)
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/22478645/CompTIA.Security%2B.ce.certificate.pdf)
 >
 
 ## Projects
