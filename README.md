@@ -20,7 +20,6 @@
 🚀 I’m using GitHub to document my journey into cybersecurity through **labs, scripts, and write-ups**.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
