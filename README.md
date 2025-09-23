@@ -26,7 +26,7 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL Injection Techniques          | <a href="https://github.com/Ricjan5012/Mutilidae-and-DVWA-Web-Vulnerabilities/blob/main/README.md">Mutilidae-and-DVWA-Web-Vulnerabilities</a>|
-| Placeeholder | <a href="[https://google.com](https://github.com/Ricjan5012/Buffer-Overflows-Made-Easy/tree/main)">Buffer Overflows Made Easy</a>|
+| Placeeholder | <a href="https://github.com/Ricjan5012/Buffer-Overflows-Made-Easy/blob/main/README.md">Buffer Overflows Made Easy</a>|
 
 ## Tools
 
