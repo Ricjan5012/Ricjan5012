@@ -26,11 +26,7 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL Injection Techniques          | <a href="https://github.com/Ricjan5012/Mutilidae-and-DVWA-Web-Vulnerabilities/blob/main/README.md">Mutilidae-and-DVWA-Web-Vulnerabilities</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Placeeholder | <a href="[https://google.com](https://github.com/Ricjan5012/Buffer-Overflows-Made-Easy/tree/main)">Buffer Overflows Made Easy</a>|
 
 ## Tools
 
